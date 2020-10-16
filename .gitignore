@@ -1,0 +1,6 @@
+/cache
+__pycache__
+run_*gpu*.sh
+*.tar
+*.pyc
+*.ipynb_checkpoints/
