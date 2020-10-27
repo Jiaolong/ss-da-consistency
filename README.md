@@ -1,4 +1,5 @@
 # Self-Supervised Domain Adaptation with Consistency Training
+[![arXiv](https://img.shields.io/badge/arXiv-2010.07539-b31b1b)](https://arxiv.org/abs/2010.07539)
 
 Repository for the paper ["Self-Supervised Domain Adaptation with Consistency Training"](https://arxiv.org/abs/2010.07539).
 ```
